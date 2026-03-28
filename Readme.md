@@ -1,8 +1,8 @@
 # Assessing Vegetation Loss and Burn Severity in the 2021 Dixie Fire Using Landsat 8
 
-Author: Dustin Littlefield 
-Date: February 17, 2026 
-
+Author: Dustin Littlefield\
+Date: February 17, 2026\
+[Github Repository](https://github.com/dustinlit/Dixie-Fire-Burn-Severity-Analysis)
 ## Introduction 
 Wildfires, by nature, are chaotic and both difficult to predict or prevent. They are an essential part of the natural ecological life cycle of many forests. However, evidence shows that due to human factors like climate change and increased rural settlement, the rate and severity of fires has been increasing. Financial consequences of this increase stretch far beyond the burned region, as they can impact the economies and ecologies of communities for years. Understanding factors that influence the behavior and severity of wildfires is critical for active firefighting, fire prevention and resource management activities like improving emergency response, refining early warning systems, evaluating fuel management strategies, and guiding future urban planning. 
 
