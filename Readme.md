@@ -17,7 +17,7 @@
 This project utlizes Landsat 8 imagery obtained from the USGS Earth Explorer website. The goal is to classify burn severity among the fires nearly 1 million acres burned.
 
 <p align="center">
-  <img src="Figures/figure_5.jpg" width="600" title="Beachie Creek Burn Severity">
+  <img src="docs/Figures/figure_5.jpg" width="600" title="Beachie Creek Burn Severity">
 </p>
 
 ## Methodology
