@@ -1,4 +1,3 @@
-
 # Assessing Vegetation Loss and Burn Severity in the 2021 Dixie Fire Using Landsat 8
 
 Author: Dustin Littlefield\
@@ -192,3 +191,5 @@ J. (2006). FIREMON: Fire effects monitoring and inventory system (Gen. Tech. Rep
 GTR-164). U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station. https://doi.org/10.2737/RMRS-GTR-164 
 
 Estes, B. L., Collins, B. M., Stephens, S. L., & North, M. P. (2017). Factors influencing fire severity under moderate burning conditions. Ecosphere, 8(12), e01994. https://doi.org/10.1002/ecs2.1794 
+
+
