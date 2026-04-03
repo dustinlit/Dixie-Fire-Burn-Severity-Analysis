@@ -37,7 +37,7 @@ Composite imagery enhances our analysis of imagery because it visualizes spectra
     <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
     Source: Landsat 8 OLI, U.S. Geological Survey (USGS)</em>
   </figcaption>
-  <img src="Figures/figure_1.jpg" width="700" alt="">
+<img src="Figures/figure_1.jpg" width="400" alt="">
 </figure>
 
 ## Methodology and Results 
