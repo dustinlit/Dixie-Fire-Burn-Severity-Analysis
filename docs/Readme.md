@@ -33,11 +33,11 @@ Composite imagery enhances our analysis of imagery because it visualizes spectra
 
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
-    <strong>Figure 1.</strong> False color images (Red, NIR, SWIR1) of Dixie Fire burned area. (Left) Landsat 8 imagery from 07/21/2021. Before the fire the region is consistently green with few interruptions in forested areas. (Right) Landsat 8 imagery from 12/21/2021. Almost complete visible loss of vegetation in the burnt region, including sizeable areas of the Lassen and Plumas National Forests.<br>
+    <strong>Figure 1.</strong> False color images (Red, NIR, SWIR1) of Dixie Fire burned area. (Left) Landsat 8 imagery from 07/21/2021. Before the fire <br> the region is consistently green with few interruptions in forested areas. (Right) Landsat 8 imagery from 12/21/2021. Almost <br> complete visible loss of vegetation in the burnt region, including sizeable areas of the Lassen and Plumas National Forests.<br>
     <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
     Source: Landsat 8 OLI, U.S. Geological Survey (USGS)</em>
   </figcaption>
-<img src="Figures/figure_1.jpg" width="400" alt="">
+  <img src="Figures/figure_1.jpg" width="750" alt="">
 </figure>
 
 ## Methodology and Results 
@@ -69,7 +69,7 @@ Figure 2 depicts NDVI conditions from before and after the 2021 Dixie fire in no
 
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
-    <strong>Figure 2.</strong> NDVI before and after Dixie Fire (2021) Left: Landsat 8 imagery from 07/21/2021 shows healthy vegetation in the burned region with NDVI values that are consistent with surrounding regions.  Right: Landsat 8 imagery from 12/21/2021 shows a dramatic reduction in NDVI through the burned area, indicating a substantial loss of vegetative biomass. <br>
+    <strong>Figure 2.</strong> NDVI before and after Dixie Fire (2021) Left: Landsat 8 imagery from 07/21/2021 shows healthy vegetation <br> in the burned region with NDVI values that are consistent with surrounding regions.  Right: Landsat 8 imagery from 12/21/2021 <br> shows a dramatic reduction in NDVI through the burned area, indicating a substantial loss of vegetative biomass. <br>
     <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
     Source: Landsat 8 OLI, U.S. Geological Survey (USGS)</em>
   </figcaption>
@@ -127,18 +127,18 @@ In this case study, images from before and after the fire are used to generate a
 
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
-    <strong>Table 1.</strong> FIREMON classification schema for qualifying burn severity from dNBR
+    <strong>Table 1.</strong> FIREMON classification schema for qualifying <br> burn severity from dNBR
   </figcaption>
   <img src="Figures/table_1.jpg" width="300">
 </figure>
 
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
-    <strong>Figure 3.</strong> Burn severity classification of the 2021 Dixie Fire using the difference Normalized Burn Ratio. Results indicate low to moderate severity throughout most of the region with clusters of moderate high severity concentrated in a few regions.  <br>
+    <strong>Figure 3.</strong> Burn severity classification of the 2021 Dixie Fire using the difference Normalized Burn Ratio. <br> Results indicate low to moderate severity throughout most of the region with clusters of high severity <br> concentrated in a few regions.  <br>
     <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
     Source: Landsat 8 OLI, U.S. Geological Survey (USGS)</em>
   </figcaption>
-  <img src="Figures/figure_3.jpg" width="700" alt="">
+  <img src="Figures/figure_3.jpg" width="570" alt="">
 </figure>
 
 ## Spatial Burn Pattern Analysis 
@@ -146,18 +146,18 @@ At the center of the burn is Lake Almanor, around which several communities got 
 
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
-    <strong>Figure 4.</strong> Overlay of burned region highlighting communities around Lake Almanor affected by the Dixie Fire. Several communities along highway 89 were destroyed by the fire including Canyondam, Greenville and Indian Falls. <br>
+    <strong>Figure 4.</strong> Overlay of burned region highlighting communities around Lake Almanor affected by the <br> Dixie Fire. Several communities along highway 89 were destroyed by the fire including Canyondam, <br> Greenville and Indian Falls. <br>
     <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
     Source: Landsat 8 OLI, U.S. Geological Survey (USGS)</em>
-  </figcaption>
-  <img src="Figures/figure_4.jpg" width="700" alt="">
+ </figcaption>
+  <img src="Figures/figure_4.jpg" width="750" alt="">
 </figure>
 
 The dNBR burn severity classification allows more detailed spatial analysis of the fire. The most severely burned areas are clustered in the southern region of the burn in the Plumas National Forest. Some factors contributing to higher severity in the region include the presence of many southern facing slopes, which intensify the spread of wildfires, and more densely packed vegetative growth (Estes, Collins, Stephens, & North, 2017). The remoteness of this region makes conducting fire prevention efforts like strategic thinning and controlled burns more difficult and expensive (Figure 5).  
 
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
-    <strong>Figure 5.</strong> Burn severity map for southern area of burn in Plumas National Forest. Little to no fuel treatment activities were conducted before the fire. The steep southern slopes of the area make up the largest clusters of higher severity burns. <br>
+    <strong>Figure 5.</strong> Burn severity map for southern area of burn in Plumas National Forest. Little to no fuel treatment activities <br> were conducted before the fire. The steep southern slopes of the area make up the largest clusters of higher severity <br> burns. <br>
     <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
     Source: Landsat 8 OLI, U.S. Geological Survey (USGS)</em>
   </figcaption>
@@ -168,7 +168,7 @@ North of Lake Almanor is the Lassen National Forest. In contrast to the Plumas F
 
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
-    <strong>Figure 6.</strong> Burn severity map for region of the Lassen National Forest burnt by Dixie Fire. Overlay includes fire prevention efforts in the region. There is more thinning and controlled burn activity than in the Plumas Forest.  <br>
+    <strong>Figure 6.</strong> Burn severity map for region of the Lassen National Forest burnt by Dixie Fire. Overlay includes fire prevention <br> efforts in the region. There is more thinning and controlled burn activity than in the Plumas Forest.  <br>
     <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
     Source: Landsat 8 OLI, U.S. Geological Survey (USGS)</em>
   </figcaption>
@@ -180,7 +180,7 @@ The Dixie Fire area is composed of a total of 963,328.17 acres, of which 595,779
  
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
-    <strong>Table 1.</strong> A breakdown of the burn severity classification levels for the 2021 Dixie Fire by acreage and percent of total area burned
+    <strong>Table 1.</strong> A breakdown of the burn severity classification levels <br> for the 2021 Dixie Fire by acreage and percent of total area <br> burned.
   </figcaption>
   <img src="Figures/table_2.jpg" width="350">
 </figure>
