@@ -15,9 +15,14 @@
 ## Overview
 This project utlizes Landsat 8 imagery obtained from the USGS Earth Explorer website. The goal is to classify burn severity among the fires nearly 1 million acres burned.
 
-<p align="center">
-  <img src="docs/Figures/figure_5.jpg" width="600" title="Beachie Creek Burn Severity">
-</p>
+<figure>
+  <figcaption style="font-size:0.9em; margin-bottom:8px;">
+    <strong>Figure.</strong> Burn severity map for southern area of burn in Plumas National Forest. Little to no fuel treatment activities <br> were conducted before the fire. The steep southern slopes of the area make up the largest clusters of higher severity <br> burns. <br>
+    <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
+    Source: Landsat 8 OLI, U.S. Geological Survey (USGS)</em>
+  </figcaption>
+  <img src="figure_5.jpg" width="700" alt="">
+</figure>
 
 ## Methodology
 
